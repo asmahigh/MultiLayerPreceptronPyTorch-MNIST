@@ -9,6 +9,9 @@ One more important thing to consider is that We typically include nonlinearities
 
 ### MNIST Dataset
 The MNIST dataset is very popular machine learning dataset, consisting of 70000 grayscale images of handwritten digits, of dimensions 28x28.
+
+<img width="352" alt="mnist" src="https://user-images.githubusercontent.com/66415170/131272210-d5b0623f-6279-42b5-a877-022a3959d526.png">
+
 We split the dataset into two separate groups:
 
 Number of MNIST training examples: 60000
